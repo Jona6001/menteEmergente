@@ -1,0 +1,42 @@
+INSTRUCCIONES PARA LAS IMÁGENES
+================================
+
+Guarda TODAS las imágenes en esta carpeta con los nombres EXACTOS:
+
+LOGOS:
+------
+1. logo-principal.png
+   → El logo azul/naranja con "Mente Emergente - Potencia tu Futuro"
+   → Aparece en navbar, hero, y footer
+
+2. logo-secundario.png
+   → El logo verde/azul con "Crecimiento · Confianza · Bienestar"
+   → Aparece en sección "Sobre Nosotros"
+
+FOTO GRUPAL:
+------------
+3. equipo.jpg
+   → La fotografía grupal del equipo (5 personas)
+   → Aparece en sección "Equipo"
+
+MIEMBROS INDIVIDUALES (sección pirámide):
+-----------------------------------------
+4. miembro-1.jpg → LÍDER (va en la cima de la pirámide)
+5. miembro-2.jpg → Segunda fila (izquierda)
+6. miembro-3.jpg → Segunda fila (derecha)
+7. miembro-4.jpg → Tercera fila (izquierda)
+8. miembro-5.jpg → Tercera fila (derecha)
+
+NOTA: Las fotos de miembros se ven mejor en formato cuadrado (1:1).
+Recomendado: mínimo 400x400 px, formato JPG.
+
+CÓMO ENCONTRAR LAS IMÁGENES EN EL CÓDIGO:
+-----------------------------------------
+Abre index.html y busca los comentarios "<!-- img:" para
+encontrar rápidamente dónde se coloca cada imagen.
+
+CÓMO EDITAR LOS NOMBRES/ROLES DE LOS MIEMBROS:
+----------------------------------------------
+En index.html busca la sección "MEMBERS PYRAMID SECTION".
+Cada miembro tiene su <h3> (nombre), <p class="member-role">
+(rol) y <p class="member-desc"> (descripción) para editar.
